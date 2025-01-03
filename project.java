@@ -247,8 +247,8 @@ public class project {
                     case 1 -> {
                         System.out.println("Press 1 for Triangle Pattern");
                         System.out.println("Press 2 for Left Half Triangle Pattern");
-                        System.out.println("Press 3 for Square Hollow Pattern");
-                        System.out.println("Press 4 for Square Fill Pattern");
+                        System.out.println("Press 3 for Hollow Square Pattern");
+                        System.out.println("Press 4 for Fill Square Pattern");
                         System.out.println("Press 5 for Rhombus Pattern");
                         b=get.nextInt();
                         switch(b)
